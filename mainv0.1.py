@@ -29,7 +29,7 @@ while True:
 
     time.sleep(3)
 
-    pyautogui.click(600,0)
+    pyautogui.click(500,130)
     
     keyboard.press('backspace')
     keyboard.press('backspace')
