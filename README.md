@@ -1,4 +1,4 @@
-# free edgepoints
+# free edge points
 
 i am not in any way responsible for what people do with this.
 
