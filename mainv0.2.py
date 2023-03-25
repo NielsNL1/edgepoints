@@ -12,12 +12,13 @@ def stop_loop():
     running = False
 
 
-
+# Replace the zero with a other key if you want to change the hotkey.
 keyboard.add_hotkey('0', stop_loop)
 
 running = True
 
 while running:
+    # You might need to change this depending on what browser you use. 400 = x 125 = y
     pyautogui.click(400,125)
 
     for i in range(5):
