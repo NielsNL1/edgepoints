@@ -18,7 +18,7 @@ keyboard.add_hotkey('0', stop_loop)
 running = True
 
 while running:
-    pyautogui.click(400,175)
+    pyautogui.click(400,125)
 
     for i in range(5):
         rk = random.choice(list1)
