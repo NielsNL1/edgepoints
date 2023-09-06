@@ -1,5 +1,3 @@
-# free edge points
+# automatic edge points
 
-i am not in any way responsible for what people do with this.
-
-over engineered but it works 
+This program searches a random string up on Edge, which give you 'Edge points'
