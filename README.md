@@ -1,3 +1,5 @@
 # automatic edge points
 
-This program searches a random string up on Edge, which give you 'Edge points'
+This program searches a random string up on Edge, which will give you 'Edge points'
+
+THIS WAS MADE FOR EDUCATIONAL PURPOSES
